@@ -6,6 +6,8 @@ Hi, this will be my repo full of completed python projects
     * Sudoku Solver
     * To Do List
     * Temperature Conversion
+    * Simple CLI Calculator
+    * Hourglass in Terminal
 * In progress projects:
     * Tic-Tac-Toe
 * Youtube channel: @infinitykitsune (find me here)
