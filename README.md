@@ -8,6 +8,7 @@ Hi, this will be my repo full of completed python projects
     * Temperature Conversion
     * Simple CLI Calculator
     * Hourglass in Terminal
+    * Life of Apple Tree
 * In progress projects:
     * Tic-Tac-Toe
 * Youtube channel: @infinitykitsune (find me here)
